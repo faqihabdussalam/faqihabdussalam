@@ -3,7 +3,7 @@
 My Name is Muhammad Faqih Abdussalam
 
 I have basic skills regarding Python, Go, and C++ programming languages.
-I have experience in web development and online marketing.
+I also have experience in web development and online marketing.
 
 <!--
 **faqihabdussalam/faqihabdussalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
